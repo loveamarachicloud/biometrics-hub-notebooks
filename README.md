@@ -1,5 +1,5 @@
 # My BioMetrics & HealthData Hub notebooks
-Hello! I am YOUR FULL NAME. This repository holds my work for the course
+Hello! I am Love Amarachi. This repository holds my work for the course
 **Python for Health Data Science and Machine Learning**.
 ## My progress
 | Notebook | Topic | Status |
